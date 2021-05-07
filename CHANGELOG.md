@@ -1,3 +1,19 @@
+## 0.1.10
+
+ - Support `webkit_inspection_protocol` version `^1.0.0`.
+
+## 0.1.9
+
+ - Add support for Chrome executables in `CHROME_PATH`.
+
+## 0.1.8
+
+- Log `STDERR` on Chrome launch failure.
+
+## 0.1.7
+
+- Widen the dependency range on `package:webkit_inspection_protocol`.
+
 ## 0.1.6
 
 - Update lower Dart SDK requirement to `2.2.0`.
